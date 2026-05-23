@@ -30,7 +30,7 @@ Login → Dashboard → Select Distributor → Select Route → Check In → Che
 
 **Setup & Run**
 # Clone the repository
-git clone https://github.com/yourusername/daffy.git
+git clone https://github.com/UmmeAiman1/daffy.git
 cd daffy
 
 # Install dependencies
